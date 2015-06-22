@@ -8,8 +8,8 @@
 # appear in this script.                  #
 #                                         #
 # miau@server-plant.de                    #
-# 22-11-2014 v4.0                         #
-# Published under GNU License v2          #
+# 22-06-2015 v5.0                         #
+# Published under MIT License             #
 #                                         #
 # Script written by Marcel 'miau' Kassuhn #
 #                                         #
